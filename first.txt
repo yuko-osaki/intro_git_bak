@@ -1,3 +1,4 @@
 Gitの練習
 
 .git add
+.git diff
