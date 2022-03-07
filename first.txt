@@ -1,1 +1,3 @@
 Gitの練習
+
+.git add
